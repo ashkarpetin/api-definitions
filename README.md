@@ -5,7 +5,7 @@
 
 TBD: Add Redocly validation status badge.
 
-## Links
+## Links 
 
 - [Core API docs](https://api-reference.rebilly.com/)
 - [Users API docs](https://user-api-docs.rebilly.com/)
